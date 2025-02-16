@@ -1,1 +1,1 @@
-# GenGPUCrypto1
+# GenGPUCrypto
